@@ -37,4 +37,4 @@ jobs:
           file: Dockerfile.latest
           platforms: linux/arm64, linux/amd64
           push: true
-          tags: ghcr.io/aqeelaleid:latest
+          tags: ghcr.io/aqeelaleid/postgresql:latest
